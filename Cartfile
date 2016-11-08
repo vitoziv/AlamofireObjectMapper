@@ -1,2 +1,2 @@
-github "Alamofire/Alamofire" ~> 4.0 
+github "https://github.com/onmyway133/Alamofire.git" 'fix/ios_8' 
 github "Hearst-DD/ObjectMapper" ~> 2.0
